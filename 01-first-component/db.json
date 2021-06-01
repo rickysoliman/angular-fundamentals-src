@@ -1,11 +1,11 @@
 {
   "passengers": [
     {
+      "fullName": "Todd Motto",
       "id": 1,
-      "fullName": "Ricky",
       "checkedIn": true,
-      "checkInDate": 1491606000000,
-      "baggage": "none"
+      "baggage": "none",
+      "checkInDate": 1491606000000
     },
     {
       "id": 2,
