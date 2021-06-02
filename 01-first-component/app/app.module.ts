@@ -28,7 +28,8 @@ const routes: Routes = [
   ],
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+    NotFoundComponent
   ]
 })
 export class AppModule {}
