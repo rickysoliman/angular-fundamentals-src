@@ -1,24 +1,24 @@
 {
   "passengers": [
     {
-      "fullName": "Todd Motto",
       "id": 1,
-      "checkedIn": true,
-      "baggage": "none",
-      "checkInDate": 1491606000000
-    },
-    {
-      "id": 2,
       "fullName": "Suzzy",
       "checkedIn": false,
       "checkInDate": null,
       "baggage": ""
     },
     {
+      "id": 2,
+      "fullName": "Ricky",
+      "checkedIn": false,
+      "checkInDate": null,
+      "baggage": ""
+    },
+    {
       "id": 3,
-      "fullName": "Saraf",
-      "checkedIn": true,
-      "checkInDate": 1491606000000,
+      "fullName": "Cate",
+      "checkedIn": false,
+      "checkInDate": null,
       "baggage": ""
     },
     {

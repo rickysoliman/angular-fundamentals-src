@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { PassengerDashboardComponent } from './passenger-dashboard/containers/passenger-dashboard/passenger-dashboard.component';
 
 interface Nav {
   link: string,
@@ -32,6 +33,11 @@ export class AppComponent {
       link: '/',
       name: 'Home',
       exact: true
+    },
+    {
+      link: '/passengers',
+      name: 'Passengers',
+      exact: false 
     },
     {
       link: '/oops',
