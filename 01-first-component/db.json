@@ -2,16 +2,15 @@
   "passengers": [
     {
       "id": 1,
-      "fullName": "Suzzy",
+      "fullName": "Suzzy Win-Marasigan",
       "checkedIn": false,
       "checkInDate": null,
       "baggage": ""
     },
     {
+      "fullName": "Ricky Marasigan",
       "id": 2,
-      "fullName": "Ricky",
       "checkedIn": false,
-      "checkInDate": null,
       "baggage": ""
     },
     {
